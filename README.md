@@ -47,6 +47,3 @@ A beautifully designed, fully functional calendar and task management applicatio
 
 No installation needed. Just open `index.html` in your browser.
 
-## Screenshots
-
-<!-- Add your screenshots here -->
